@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA2DGame", "Animation01\Animation01\XNA2DGame.csproj", "{81B6E12B-1D34-4213-B04A-803077A27E57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA2DGameContent", "Animation01\Animation01Content\XNA2DGameContent.contentproj", "{80247324-210C-4541-81CD-EA5D2088F029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B6E12B-1D34-4213-B04A-803077A27E57}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{81B6E12B-1D34-4213-B04A-803077A27E57}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{81B6E12B-1D34-4213-B04A-803077A27E57}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{81B6E12B-1D34-4213-B04A-803077A27E57}.Debug|x86.ActiveCfg = Debug|x86
+		{81B6E12B-1D34-4213-B04A-803077A27E57}.Debug|x86.Build.0 = Debug|x86
+		{81B6E12B-1D34-4213-B04A-803077A27E57}.Release|Any CPU.ActiveCfg = Release|x86
+		{81B6E12B-1D34-4213-B04A-803077A27E57}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{81B6E12B-1D34-4213-B04A-803077A27E57}.Release|Mixed Platforms.Build.0 = Release|x86
+		{81B6E12B-1D34-4213-B04A-803077A27E57}.Release|x86.ActiveCfg = Release|x86
+		{81B6E12B-1D34-4213-B04A-803077A27E57}.Release|x86.Build.0 = Release|x86
+		{80247324-210C-4541-81CD-EA5D2088F029}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{80247324-210C-4541-81CD-EA5D2088F029}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{80247324-210C-4541-81CD-EA5D2088F029}.Debug|x86.ActiveCfg = Debug|x86
+		{80247324-210C-4541-81CD-EA5D2088F029}.Release|Any CPU.ActiveCfg = Release|x86
+		{80247324-210C-4541-81CD-EA5D2088F029}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{80247324-210C-4541-81CD-EA5D2088F029}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
